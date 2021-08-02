@@ -1,14 +1,4 @@
-## Getting Started
+# Projeto de final de POO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Este é um simples projeto de um programa de console utilizado para adicionar, visualizar e listar produtos e também efetuar vendas e conferi-las.
+- Projeto final da matéria de POO, concluindo o módulo e servindo de avaliação.
